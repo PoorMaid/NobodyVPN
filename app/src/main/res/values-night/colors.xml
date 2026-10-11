@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fab_color_progress">@color/material_light_white</color>
+    <color name="preference_simple_menu_background">#303030</color>
+
+    <color name="nobody_btn_text">#EDEDED</color>
+    <color name="nobody_btn_stroke">#7A7A7A</color>
+    <color name="nobody_btn_bg">#2A2A2A</color>
+    <color name="nobody_text_primary">#EDEDED</color>
+    <color name="nobody_text_secondary">#A0A0A0</color>
+    <color name="nobody_accent_text">#FF80AB</color>
+    <color name="nobody_mode_toggle_text">#EDEDED</color>
+    <color name="nobody_mode_toggle_bg">#2A2A2A</color>
+</resources>
